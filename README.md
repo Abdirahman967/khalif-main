@@ -1,0 +1,25 @@
+<div align="center">
+
+# Abdirahman siyad
+
+**Software Engineer · Developer Advocate · CS Student**
+
+`web` · `open source` · `community`
+
+</div>
+
+I build software, contribute to open source, and spend a questionable amount of time turning random ideas into actual projects and products.
+
+Most of my work lives around the web — building products, experimenting with developer tools, and occasionally creating things nobody asked for.
+
+Outside the code, I'm involved in developer communities — speaking, organizing, teaching, and helping other developers build cool shit. Usually on purpose.
+
+I'm open to connecting with developers, educators, open-source contributors, founders, and people building meaningful technology.
+
+- linkedin: https://www.linkedin.com/in/abdirahman-siyad-6a3298444/
+
+- 📧 Email: [hello@khalifzokhalif](mailto:hello@khalifzokhalif)
+
+---
+
+> Build software that solves real problems, empower developers through knowledge, and leave every project better than you found it.
